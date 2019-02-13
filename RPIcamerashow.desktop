@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Comment=RPI cam show
+Name=RPI cam
+Icon=/usr/share/pixmaps/guvcview/guvcview.png
+Exec=lxterminal -e /home/pi/sauron/execute_script.sh
+Terminal=false
